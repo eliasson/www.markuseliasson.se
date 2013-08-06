@@ -27,7 +27,7 @@ html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pr
 }
 
 @font-face {
-    font-family: 'entypo-social';
+    font-family: 'me-entypo-social';
     src: url('/fonts/entypo-social.eot');
     src: url('/fonts/entypo-social.eot?#iefix') format('embedded-opentype'),
          url('/fonts/entypo-social.woff') format('woff'),
@@ -62,28 +62,28 @@ html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pr
 }
 
 .icon.github:before {
-    font-family: 'entypo-social';
-    content: "\F300";
+    font-family: 'me-entypo-social';
+    content: "\e001";
 }
 
 .icon.facebook:before {
-    font-family: 'entypo-social';
-    content: "\F30C";
+    font-family: 'me-entypo-social';
+    content: "\e002";
 }
 
 .icon.linkedin:before {
-    font-family: 'entypo-social';
-    content: "\F318";
+    font-family: 'me-entypo-social';
+    content: "\e004";
 }
 
 .icon.twitter:before {
-    font-family: 'entypo-social';
-    content: "\F309";
+    font-family: 'me-entypo-social';
+    content: "\e000";
 }
 
 .icon.gplus:before {
-    font-family: 'entypo-social';
-    content: "\F30F";
+    font-family: 'me-entypo-social';
+    content: "\e003";
 }
 
 
@@ -254,7 +254,7 @@ footer.main {
 }
 
 footer.main .icon {
-    font-size: 28px;
+    font-size: 16px;
     margin: 0px 6px;
 }
 
